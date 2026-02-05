@@ -286,7 +286,7 @@ export default function App() {
         </div>
       </section>
 
-      <section id="about" className="py-24 relative stars-bg">
+      <section id="about" className="py-12 relative stars-bg">
         <div className="max-w-7xl mx-auto px-6">
           <AnimatedSection className="text-center mb-16">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium mb-4">
@@ -351,7 +351,7 @@ export default function App() {
         </div>
       </section>
 
-      <section id="services" className="py-24 bg-dark-300/50 stars-bg">
+      <section id="services" className="py-12 bg-dark-300/50 stars-bg">
         <div className="max-w-7xl mx-auto px-6">
           <AnimatedSection className="text-center mb-16">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium mb-4">
@@ -375,7 +375,7 @@ export default function App() {
         </div>
       </section>
 
-      <section id="skills" className="py-24 stars-bg">
+      <section id="skills" className="py-12 stars-bg">
         <div className="max-w-7xl mx-auto px-6">
           <AnimatedSection className="text-center mb-16">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-yellow-500/10 border border-yellow-500/30 text-yellow-400 text-sm font-medium mb-4">
@@ -413,7 +413,7 @@ export default function App() {
         </div>
       </section>
 
-      <section id="projects" className="py-24 bg-dark-300/50 stars-bg">
+      <section id="projects" className="py-12 bg-dark-300/50 stars-bg">
         <div className="max-w-7xl mx-auto px-6">
           <AnimatedSection className="text-center mb-16">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium mb-4">
@@ -529,7 +529,7 @@ export default function App() {
           <a href="#home" className="text-xl font-bold">
             <span className="text-gradient">Waleed Arman</span>
           </a>
-          <p className="text-gray-500 text-sm">© 2026 Waleed Arman. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© 2026 Waleed Arman. Crafted with passion and precision.</p>
           <div className="flex gap-4">
             {[
               { icon: Github, href: "https://github.com/waleedarman" },
