@@ -529,7 +529,7 @@ export default function App() {
           <a href="#home" className="text-xl font-bold">
             <span className="text-gradient">Waleed Arman</span>
           </a>
-          <p className="text-gray-500 text-sm">© 2026 Waleed Arman. Crafted with passion and precision.</p>
+          <p className="text-gray-500 text-sm">© 2026 Waleed Arman. All rights reserved</p>
           <div className="flex gap-4">
             {[
               { icon: Github, href: "https://github.com/waleedarman" },
