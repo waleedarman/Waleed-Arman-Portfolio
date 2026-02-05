@@ -203,7 +203,7 @@ export default function App() {
               <span className="text-primary">|</span>
               <span>QA Engineer</span>
               <span className="text-primary">|</span>
-              <span>UX/UI Designer</span>
+             
             </h2>
             
             <p className="hero-text text-gray-500 text-lg max-w-xl mb-8 leading-relaxed">
