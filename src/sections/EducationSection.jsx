@@ -19,7 +19,7 @@ export default function EducationSection() {
       description: "Modern frontend technologies and responsive design."
     },
     {
-      degree: "B.A. Software Engineering",
+      degree: "computer science apprenticeship program",
       institution: "An-Najah National University",
       logo: "NU",
       period: "Expected Sep 2026",
