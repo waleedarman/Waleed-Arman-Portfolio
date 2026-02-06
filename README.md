@@ -80,6 +80,3 @@ The app runs on `http://localhost:5000`
 - **LinkedIn**: [waleed-arman](https://www.linkedin.com/in/waleed-arman/)
 - **GitHub**: [waleedarman](https://github.com/waleedarman)
 
-## License
-
-MIT License - Feel free to use this as a template for your own portfolio!
