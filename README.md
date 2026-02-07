@@ -4,7 +4,7 @@ A modern, responsive 3D portfolio website showcasing my skills and experience as
 
 ## Live Demo
 
-[View Live Portfolio](https://waleed-arman-portfolio.netlify.app/)
+[View Live Portfolio](https://waleed-arman-portfolio.vercel.app/)
 
 ## Features
 
